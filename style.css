@@ -1,8 +1,14 @@
 .wow{
     background-image: url(images/background.jpg);
     background-size: 1500px 800px;
+    background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
 }
 body{
     display:block ;
     margin: 5px;
+   
+    
 }
